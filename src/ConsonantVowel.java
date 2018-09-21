@@ -21,8 +21,6 @@ public class ConsonantVowel{
                 } else{
                     answerstring = answerstring + " Consonant";
                 }
-            } else{
-               answerstring = answerstring + " error"; // If the character is not character, i.e. numeric or special character
             }
 
         }
